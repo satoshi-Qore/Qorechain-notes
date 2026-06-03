@@ -1,41 +1,78 @@
-# ⚛️ QoreChain Notes
+# ⚛️ QoreChain Research Hub
 
-Research notes on **QoreChain**, post-quantum cryptography, light node infrastructure, and blockchain operations.
+> Research, infrastructure notes, and post-quantum blockchain studies maintained by **Satoshi-Qore**.
 
-> Maintained by **Satoshi-Qore** as part of QoreChain community research, support, and infrastructure learning.
-
----
-
-## 🚀 Focus Areas
-
-- QoreChain ecosystem notes
-- Post-quantum cryptography basics
-- Light node troubleshooting
-- Blockchain infrastructure experiments
-- Community support documentation
+![QoreChain](https://img.shields.io/badge/QoreChain-Ecosystem-blueviolet)
+![Post Quantum](https://img.shields.io/badge/Post--Quantum-Research-success)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Active-blue)
+![Status](https://img.shields.io/badge/Status-Ongoing-green)
 
 ---
 
-## 📚 Notes Index
+## 🎯 Mission
 
-| File | Description |
-|---|---|
-| `QORECHAIN_NOTES.md` | General QoreChain ecosystem notes |
-| `PQC_NOTES.md` | Post-quantum cryptography concepts |
-| `LIGHTNODE_TROUBLESHOOTING.md` | Common light node issues and checks |
-| `BLOCKCHAIN_INFRASTRUCTURE_LAB.md` | Infrastructure experiments and learning notes |
+This repository serves as a research hub focused on:
 
----
+- Post-Quantum Blockchain Infrastructure
+- Light Node Operations
+- Validator Ecosystems
+- Blockchain Security
+- Decentralized Network Architecture
 
-## 🧭 Purpose
-
-This repository is a personal and community-oriented knowledge base.
-
-It is designed to collect useful explanations, troubleshooting steps, and research notes that can help QoreChain users, light node operators, and community members understand the ecosystem more clearly.
+The goal is to document knowledge, operational experiences, and infrastructure research related to the QoreChain ecosystem and next-generation blockchain networks.
 
 ---
 
-## 🐙 Maintainer
+## 📚 Research Library
 
-**Satoshi-Qore**  
-QoreChain Community Leader | Post-Quantum Blockchain Advocate | Infrastructure & Light Node Operator
+### ⚛️ Cryptography
+- PQC Notes
+- ML-DSA Research
+- ML-KEM Research
+- SHAKE-256 Notes
+
+### 🌐 Infrastructure
+- Light Node Operations
+- Validator Infrastructure
+- Network Monitoring
+- Cloud Deployments
+
+### 🛡️ Security
+- Infrastructure Hardening
+- Key Management
+- Operational Security
+- Network Reliability
+
+---
+
+## 📂 Repository Structure
+
+- README.md
+- QORECHAIN_NOTES.md
+- PQC_NOTES.md
+- LIGHTNODE_TROUBLESHOOTING.md
+- BLOCKCHAIN_INFRASTRUCTURE_LAB.md
+
+---
+
+## 🚀 Current Focus
+
+- QoreChain Light Nodes
+- Post-Quantum Security
+- Blockchain Infrastructure
+- Community Support
+- Network Operations
+
+---
+
+## 👨‍💻 Maintainer
+
+**Satoshi-Qore**
+
+QoreChain Community Leader
+Post-Quantum Blockchain Advocate
+Infrastructure & Light Node Operator
+
+---
+
+> Building knowledge for the post-quantum future. ⚡
