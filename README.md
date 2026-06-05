@@ -13,11 +13,11 @@
 
 This repository serves as a research hub focused on:
 
-- Post-Quantum Blockchain Infrastructure
-- Light Node Operations
-- Validator Ecosystems
-- Blockchain Security
-- Decentralized Network Architecture
+- Post-quantum blockchain infrastructure
+- Light node operations
+- Validator ecosystems
+- Blockchain security
+- Decentralized network architecture
 
 The goal is to document knowledge, operational experiences, and infrastructure research related to the QoreChain ecosystem and next-generation blockchain networks.
 
@@ -26,22 +26,22 @@ The goal is to document knowledge, operational experiences, and infrastructure r
 ## 📚 Research Library
 
 ### ⚛️ Cryptography
-- PQC Notes
-- ML-DSA Research
-- ML-KEM Research
-- SHAKE-256 Notes
+- PQC notes
+- ML-DSA research
+- ML-KEM research
+- SHAKE-256 notes
 
 ### 🌐 Infrastructure
-- Light Node Operations
-- Validator Infrastructure
-- Network Monitoring
-- Cloud Deployments
+- Light node operations
+- Validator infrastructure
+- Network monitoring
+- Cloud deployments
 
 ### 🛡️ Security
-- Infrastructure Hardening
-- Key Management
-- Operational Security
-- Network Reliability
+- Infrastructure hardening
+- Key management
+- Operational security
+- Network reliability
 
 ---
 
@@ -57,11 +57,12 @@ The goal is to document knowledge, operational experiences, and infrastructure r
 
 ## 🚀 Current Focus
 
-- QoreChain Light Nodes
-- Post-Quantum Security
-- Blockchain Infrastructure
-- Community Support
-- Network Operations
+- QoreChain light node notes
+- Pre-mainnet preparation research
+- Post-quantum security learning
+- Blockchain infrastructure
+- Community documentation
+- Network operations notes
 
 ---
 
@@ -69,10 +70,10 @@ The goal is to document knowledge, operational experiences, and infrastructure r
 
 **Satoshi-Qore**
 
-QoreChain Community Leader
-Post-Quantum Blockchain Advocate
-Infrastructure & Light Node Operator
+QoreChain community contributor
+Post-quantum blockchain explorer
+Infrastructure and light node documentation
 
 ---
 
-> Building knowledge for the post-quantum future. ⚡
+> Building practical knowledge for the post-quantum blockchain future. ⚡
